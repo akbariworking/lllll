@@ -1,0 +1,1 @@
+# Make the pages directory a proper Python package
